@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "icon": "icon-trophy",
+    "title": "100",
+    "text": "Lightings has sold"
+  },
+  {
+    "id": 2,
+    "icon": "icon-toolbox",
+    "title": "125",
+    "text": "Our Wholesale & Retail Customers"
+  },
+  {
+    "id": 3,
+    "icon": "icon-lifesaver",
+    "title": "115",
+    "text": "Positive Reviews "
+  },
+  {
+    "id": 4,
+    "icon": "icon-linegraph",
+    "title": "16",
+    "text": "Own Brands"
+  }
+]

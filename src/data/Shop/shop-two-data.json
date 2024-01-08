@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "image": "AWS/24W-Round&Edge/24WRound&Edge1.jpg",
+    "sale": false,
+    "new": true,
+    "title": "Secret Wash shirt",
+    "rating": "100",
+    "currency": "$",
+    "oldPrice": "82.48",
+    "price": "Model Code"
+  },
+  {
+    "id": 2,
+    "image": "AWS/24W-Round&Edge/24W Round&Edge2.jpg",
+    "sale": false,
+    "new": false,
+    "title": "Slim American Pima",
+    "rating": "10",
+    "currency": "$",
+    "price": "1Model Code"
+  },
+  {
+    "id": 3,
+    "image": "AWS/24W-Round&Edge/24WRound&Edge3.jpg",
+    "sale": false,
+    "new": false,
+    "title": "Boyfriend shirt in topaz plaid",
+    "rating": "40",
+    "currency": "$",
+    "oldPrice": "99.48",
+    "price": "Model Code"
+  },
+  {
+    "id": 4,
+    "image": "AWS/24W-Round&Edge/24WRound&Edge4.jpg",
+    "sale": false,
+    "new": false,
+    "title": "Striped off-the-shoulder",
+    "rating": "30",
+    "currency": "$",
+    "oldPrice": "96.48",
+    "price": "Model Code"
+  }
+]

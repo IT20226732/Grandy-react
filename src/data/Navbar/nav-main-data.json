@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "Home",
+    "link": "/",
+    "colsTitle": "Home Pages",
+    "itemsPerCol": 5,
+    "megaMenu": false,
+    "isSubMenu": false,
+    "subMenu": []
+  },
+  {
+    "id": 2,
+    "title": "About Us",
+    "link": "/about-creative",
+    "megaMenu": false,
+    "isSubMenu": false,
+    "subMenu": []
+  },
+  {
+    "id": 3,
+    "title": "Product",
+    "link": "/portfolio",
+    "megaMenu": false,
+    "subMenu": [
+      {
+        "id": 3.1,
+        "title": "3 Way Pandan Lights",
+        "link": "/shop"
+      },
+      {
+        "id": 3.2,
+        "title": "24W Round & Edge Lights",
+        "link": "/shop1"
+      },
+      {
+        "id": 3.3,
+        "title": "B22 Coloure Bulbs & E27 Coloure Bulbs",
+        "link": "/shop2"
+      },
+      {
+        "id": 3.4,
+        "title": "Flood & Panel lights",
+        "link": "/shop3"
+      },
+      {
+        "id": 3.5,
+        "title": "Round-Lights",
+        "link": "/shop4"
+      },
+      {
+        "id": 3.6,
+        "title": "Shaders",
+        "link": "/shop5"
+      },
+      {
+        "id": 3.7,
+        "title": "Street & Track Lights",
+        "link": "/shop6"
+      },
+      {
+        "id": 3.8,
+        "title": "Swimming Pool Lights",
+        "link": "/shop7"
+      },
+      {
+        "id": 3.9,
+        "title": "Tubelight",
+        "link": "/shop8"
+      },
+      {
+        "id": 4.0,
+        "title": "Wall-Lamp-Lights",
+        "link": "/shop9"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Contact Us",
+    "link": "/contact",
+    "megaMenu": false,
+    "subMenu": [
+    ]
+  }
+]

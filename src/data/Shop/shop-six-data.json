@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "image": "AWS/Shaders/Shader-light/Shader-light1.jpg",
+      "sale": false,
+      "new": true,
+      "title": "Secret Wash shirt",
+      "rating": "100",
+      "currency": "$",
+      "oldPrice": "82.48",
+      "price": "88285/5"
+    },
+    {
+      "id": 2,
+      "image": "AWS/Shaders/Shader-light/Shader-light2.jpg",
+      "sale":false,
+      "new": false,
+      "title": "Slim American Pima",
+      "rating": "10",
+      "currency": "$",
+      "price": "88527/5"
+    },
+    {
+      "id": 3,
+      "image": "AWS/Shaders/Shader-light-crystal/Shader-light-crystal.jpg",
+      "sale": false,
+      "new": false,
+      "title": "Boyfriend shirt in topaz plaid",
+      "rating": "40",
+      "currency": "$",
+      "oldPrice": "99.48",
+      "price": "3177/6"
+    }
+  ]
+  

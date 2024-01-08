@@ -1,0 +1,46 @@
+[
+    {
+      "id": 1,
+      "image": "AWS/Tubelight/1.2M-36W-TUBE-LIGHT/1.2M-36W-TUBE-LIGHT.jpg",
+      "sale": false,
+      "new": true,
+      "title": "Secret Wash shirt",
+      "rating": "100",
+      "currency": "$",
+      "oldPrice": "82.48",
+      "price": "TL - 1.2M-36W"
+    },
+    {
+      "id": 2,
+      "image": "AWS/Tubelight/4FEET-T10-TUBE-LIGHT-36W/4FEET-T10-TUBE-LIGHT-36W.jpg",
+      "sale": false,
+      "new": false,
+      "title": "Slim American Pima",
+      "rating": "10",
+      "currency": "$",
+      "price": "TL - 4F-36W"
+    },
+    {
+      "id": 3,
+      "image": "AWS/Tubelight/Glass-tube-light/Glass-tube-light1.jpg",
+      "sale": false,
+      "new": false,
+      "title": "Boyfriend shirt in topaz plaid",
+      "rating": "40",
+      "currency": "$",
+      "oldPrice": "99.48",
+      "price": "20w - Glass Tube"
+    },
+    {
+      "id": 4,
+      "image": "AWS/Tubelight/Glass-tube-light/GlassTubeLight2.jpg",
+      "sale": false,
+      "new": false,
+      "title": "Striped off-the-shoulder",
+      "rating": "30",
+      "currency": "$",
+      "oldPrice": "96.48",
+      "price": "30w - Glass Tube"
+    }
+  ]
+  

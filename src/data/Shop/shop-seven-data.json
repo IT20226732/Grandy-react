@@ -1,0 +1,89 @@
+[
+    {
+      "id": 1,
+      "image": "AWS/Street&Track/Street-Lights/Street-Lights1.jpg",
+      "sale": false,
+      "new": true,
+      "title": "Secret Wash shirt",
+      "rating": "100",
+      "currency": "$",
+      "oldPrice": "82.48",
+      "price": "SL-1"
+    },
+    {
+      "id": 2,
+      "image": "AWS/Street&Track/Street-Lights/StreetLights2.jpg",
+      "sale":false,
+      "new": false,
+      "title": "Slim American Pima",
+      "rating": "10",
+      "currency": "$",
+      "price": "SL-2"
+    },
+    {
+      "id": 3,
+      "image": "AWS/Street&Track/Street-Lights/Street-Lights3.jpg",
+      "sale": false,
+      "new": false,
+      "title": "Boyfriend shirt in topaz plaid",
+      "rating": "40",
+      "currency": "$",
+      "oldPrice": "99.48",
+      "price": "SL-3"
+    },
+    {
+      "id": 4,
+      "image": "AWS/Street&Track/Tracklight/Tracklight1.jpg",
+      "sale": false,
+      "new": false,
+      "title": "Striped off-the-shoulder",
+      "rating": "30",
+      "currency": "$",
+      "oldPrice": "96.48",
+      "price": "TL-1 (20W / 30W)"
+    },
+    {
+      "id": 5,
+      "image": "AWS/Street&Track/Tracklight/Tracklight2.jpg",
+      "sale": false,
+      "new": false,
+      "title": "Marled cotton crewneck sweater",
+      "rating": "70",
+      "currency": "$",
+      "oldPrice": "110.78",
+      "price": "TL-2 (20W / 30W)"
+    },
+    {
+      "id": 6,
+      "image": "AWS/Street&Track/Tracklight/Tracklight3.jpg",
+      "sale": false,
+      "new": false,
+      "title": "Slim lightweight denim",
+      "rating": "70",
+      "currency": "$",
+      "oldPrice": "100.99",
+      "price": "TL-3 (20W / 30W)"
+    },
+    {
+        "id": 7,
+        "image": "AWS/Street&Track/Tracklight/Tracklight4.jpg",
+        "sale": false,
+        "new": true,
+        "title": "Secret Wash shirt",
+        "rating": "100",
+        "currency": "$",
+        "oldPrice": "82.48",
+        "price": "TL-4 (10W / 15W / 20W)"
+      },
+      {
+        "id": 8,
+        "image": "AWS/Street&Track/Tracklight/Tracklight5.jpg",
+        "sale":false,
+        "new": false,
+        "title": "Slim American Pima",
+        "rating": "10",
+        "currency": "$",
+        "price": "TL-5 (10W / 15W / 20W)"
+      }
+  ]
+  

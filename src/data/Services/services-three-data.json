@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "icon": "icon-strategy",
+    "title": "Strategy",
+    "text": "AWS Trading (PVT) Ltd prioritizes high-quality lighting products, excellent customer service, competitive prices, and global expansion in the industry."
+  },
+  {
+    "id": 2,
+    "icon": "icon-trophy",
+    "title": "Brand Identity",
+    "text": "AWS Trading (PVT) Ltd is a trusted global provider of reliable lighting solutions, emphasizing exceptional service, quality, affordability, and customer satisfaction."
+  },
+  {
+    "id": 3,
+    "icon": "icon-pencil",
+    "title": "Digital",
+    "text": "AWS Trading (PVT) Ltd maintains a strong online presence through a user-friendly website and active social media accounts to showcase their lighting products and promotions."
+  }
+]

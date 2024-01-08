@@ -1,0 +1,122 @@
+[
+    {
+      "id": 1,
+      "image": "AWS/FloodSplash/Floodlight/1.jpg",
+      "sale": false,
+      "new": true,
+      "title": "Secret Wash shirt",
+      "rating": "100",
+      "currency": "$",
+      "oldPrice": "82.48",
+      "price": "FL-1"
+    },
+    {
+      "id": 2,
+      "image": "AWS/FloodSplash/Floodlight/2.jpg",
+      "sale":false,
+      "new": false,
+      "title": "Slim American Pima",
+      "rating": "10",
+      "currency": "$",
+      "price": "FL-2"
+    },
+    {
+      "id": 3,
+      "image": "AWS/FloodSplash/Floodlight/3.jpg",
+      "sale": false,
+      "new": false,
+      "title": "Boyfriend shirt in topaz plaid",
+      "rating": "40",
+      "currency": "$",
+      "oldPrice": "99.48",
+      "price": "FL-3"
+    },
+    {
+      "id": 4,
+      "image": "AWS/FloodSplash/Floodlight/4.jpg",
+      "sale": false,
+      "new": false,
+      "title": "Striped off-the-shoulder",
+      "rating": "30",
+      "currency": "$",
+      "oldPrice": "96.48",
+      "price": "FL4"
+    },
+    {
+      "id": 5,
+      "image": "AWS/FloodSplash/Floodlight/5.jpg",
+      "sale": false,
+      "new": false,
+      "title": "Marled cotton crewneck sweater",
+      "rating": "70",
+      "currency": "$",
+      "oldPrice": "110.78",
+      "price": "FL-5"
+    },
+    {
+      "id": 6,
+      "image": "AWS/FloodSplash/Floodlight/6.jpg",
+      "sale": false,
+      "new": false,
+      "title": "Slim lightweight denim",
+      "rating": "70",
+      "currency": "$",
+      "oldPrice": "100.99",
+      "price": "FL-6"
+    },
+    {
+        "id": 7,
+        "image": "AWS/FloodSplash/Panel-light/p1.jpg",
+        "sale": false,
+        "new": true,
+        "title": "Secret Wash shirt",
+        "rating": "100",
+        "currency": "$",
+        "oldPrice": "82.48",
+        "price": "PL-1"
+      },
+      {
+        "id": 8,
+        "image": "AWS/FloodSplash/Panel-light/p2.jpg",
+        "sale":false,
+        "new": false,
+        "title": "Slim American Pima",
+        "rating": "10",
+        "currency": "$",
+        "price": "PL-2"
+      },
+      {
+        "id": 9,
+        "image": "AWS/FloodSplash/Panel-light/p3.jpg",
+        "sale": false,
+        "new": false,
+        "title": "Boyfriend shirt in topaz plaid",
+        "rating": "40",
+        "currency": "$",
+        "oldPrice": "99.48",
+        "price": "PL-3"
+      },
+      {
+        "id": 10,
+        "image": "AWS/FloodSplash/Panel-light/p4.jpg",
+        "sale": false,
+        "new": false,
+        "title": "Striped off-the-shoulder",
+        "rating": "30",
+        "currency": "$",
+        "oldPrice": "96.48",
+        "price": "PL-4"
+      },
+      {
+        "id": 11,
+        "image": "AWS/FloodSplash/Panel-light/p5.jpg",
+        "sale": false,
+        "new": false,
+        "title": "Marled cotton crewneck sweater",
+        "rating": "70",
+        "currency": "$",
+        "oldPrice": "110.78",
+        "price": "PL-5"
+      }
+  ]
+  

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "image": "team/avatar3.png",
+    "title": "Dilshan",
+    "role": "Tech Haven Electronics - Owner",
+    "text": "I recently purchased a chandelier from AWS Trading (PVT) Ltd, and I couldn't be happier with my purchase. The quality of the chandelier is exceptional, and it adds the perfect touch of elegance to my dining room. The customer service team was also fantastic, answering all of my questions and providing prompt delivery. I highly recommend AWS Trading (PVT) Ltd for anyone looking for high-quality lighting products."
+  },
+  {
+    "id": 2,
+    "image": "team/person1.jpg",
+    "title": "Rahim",
+    "role": "Circuit City Electronics  - Interior Designer",
+    "text": "As a professional interior designer, I have used AWS Trading (PVT) Ltd for several projects, and they have always exceeded my expectations. Their extensive range of lighting products allows me to find the perfect solution for any space, and their competitive prices make it easy to stay within my clients' budgets. The customer service team is also fantastic, always willing to go the extra mile to ensure that I am satisfied with my purchase. I highly recommend AWS Trading (PVT) Ltd for anyone in need of quality lighting solutions."
+  },
+  {
+    "id": 3,
+    "image": "team/avatar2.png",
+    "title": "Arjun",
+    "role": "Gadget Galaxy  - Owner",
+    "text": "I recently purchased several LED bulbs from AWS Trading (PVT) Ltd, and I am impressed with their quality and energy efficiency. The bulbs provide a bright, clear light, and I've noticed a significant decrease in my energy bills since switching to LED. The customer service team was also helpful in assisting me with choosing the right bulbs for my needs. I highly recommend AWS Trading (PVT) Ltd for anyone looking to upgrade their lighting to energy-efficient options."
+  }
+]

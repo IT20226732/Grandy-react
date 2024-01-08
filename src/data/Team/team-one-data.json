@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "image": "team/employee2.jpg",
+    "title": "Nazar",
+    "role": "Founder & CEO / Manging Director",
+    "social": [
+      {
+        "id": 1,
+        "path": "!#",
+        "title": "facebook"
+      },
+      {
+        "id": 3,
+        "path": "https://wa.me/0777009331",
+        "title": "whatsapp"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "team/employee1.png",
+    "title": "Mirzan",
+    "role": "Co-Director",
+    "social": [
+      {
+        "id": 1,
+        "path": "https://www.facebook.com/mirzan.nazar?mibextid=LQQJ4d",
+        "title": "facebook"
+      },
+      {
+        "id": 3,
+        "path": "https://wa.me/94764057577",
+        "title": "whatsapp"
+      }
+    ]
+  }
+]

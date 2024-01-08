@@ -1,0 +1,79 @@
+[
+    {
+      "id": 1,
+      "image": "AWS/Round-Light/3-Coloure-24W-Round-light/3-Coloure-24W-Round-light1.jpg",
+      "sale": false,
+      "new": true,
+      "title": "Secret Wash shirt",
+      "rating": "100",
+      "currency": "$",
+      "oldPrice": "82.48",
+      "price": "RL-1"
+    },
+    {
+      "id": 2,
+      "image": "AWS/Round-Light/3-Coloure-24W-Round-light/3-Coloure-24W-Round-light2.jpg",
+      "sale":false,
+      "new": false,
+      "title": "Slim American Pima",
+      "rating": "10",
+      "currency": "$",
+      "price": "RL-2"
+    },
+    {
+      "id": 3,
+      "image": "AWS/Round-Light/Glass-round-light/Glass-round-light1.jpg",
+      "sale": false,
+      "new": false,
+      "title": "Boyfriend shirt in topaz plaid",
+      "rating": "40",
+      "currency": "$",
+      "oldPrice": "99.48",
+      "price": "GRL-1"
+    },
+    {
+      "id": 4,
+      "image": "AWS/Round-Light/Glass-round-light/Glass-round-light2.jpg",
+      "sale": false,
+      "new": false,
+      "title": "Striped off-the-shoulder",
+      "rating": "30",
+      "currency": "$",
+      "oldPrice": "96.48",
+      "price": "GRL-2"
+    },
+    {
+      "id": 5,
+      "image": "AWS/Round-Light/Glass-round-light/Glass-round-light3.jpg",
+      "sale": false,
+      "new": false,
+      "title": "Marled cotton crewneck sweater",
+      "rating": "70",
+      "currency": "$",
+      "oldPrice": "110.78",
+      "price": "GRL-3"
+    },
+    {
+      "id": 6,
+      "image": "AWS/Round-Light/Glass-round-light/Glass-round-light4.jpg",
+      "sale": false,
+      "new": false,
+      "title": "Slim lightweight denim",
+      "rating": "70",
+      "currency": "$",
+      "oldPrice": "100.99",
+      "price": "GRL-4"
+    },
+    {
+        "id": 7,
+        "image": "AWS/Round-Light/Glass-round-light/Glass-round-light5.jpg",
+        "sale": false,
+        "new": true,
+        "title": "Secret Wash shirt",
+        "rating": "100",
+        "currency": "$",
+        "oldPrice": "82.48",
+        "price": "GRL-5"
+      }
+  ]
+  

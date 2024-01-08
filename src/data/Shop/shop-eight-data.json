@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "image": "AWS/Swimming-pool-light/Swimming-pool-light.jpg",
+      "sale": false,
+      "new": true,
+      "title": "Secret Wash shirt",
+      "rating": "100",
+      "currency": "$",
+      "oldPrice": "82.48",
+      "price": "SPL-1"
+    },
+    {
+      "id": 2,
+      "image": "AWS/Swimming-pool-light/SwimmingPoolLight1.jpg",
+      "sale":false,
+      "new": false,
+      "title": "Slim American Pima",
+      "rating": "10",
+      "currency": "$",
+      "price": "SPL-2"
+    },
+    {
+      "id": 3,
+      "image": "AWS/Swimming-pool-light/Swimming-pool-light2.jpg",
+      "sale": false,
+      "new": false,
+      "title": "Boyfriend shirt in topaz plaid",
+      "rating": "40",
+      "currency": "$",
+      "oldPrice": "99.48",
+      "price": "SPL-3"
+    }
+  ]
+  

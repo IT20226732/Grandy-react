@@ -1,0 +1,109 @@
+[
+  {
+    "id": 1,
+    "image": "AWS/3-Way-Pandan-light/3way1.jpg",
+    "sale": false,
+    "new": true,
+    "title": "Light Name",
+    "rating": "100",
+    "currency": "$",
+    "oldPrice": "82.48",
+    "price": "1133/3"
+  },
+  {
+    "id": 2,
+    "image": "AWS/3-Way-Pandan-light/3way2.jpg",
+    "sale":false,
+    "new": false,
+    "title": "Slim American Pima",
+    "rating": "10",
+    "currency": "$",
+    "price": "1135/3"
+  },
+  {
+    "id": 3,
+    "image": "AWS/3-Way-Pandan-light/3way3.jpg",
+    "sale": false,
+    "new": false,
+    "title": "Boyfriend shirt in topaz plaid",
+    "rating": "40",
+    "currency": "$",
+    "oldPrice": "99.48",
+    "price": "1136/3"
+  },
+  {
+    "id": 4,
+    "image": "AWS/3-Way-Pandan-light/3way4.jpg",
+    "sale": false,
+    "new": false,
+    "title": "Striped off-the-shoulder",
+    "rating": "30",
+    "currency": "$",
+    "oldPrice": "96.48",
+    "price": "1139/3"
+  },
+  {
+    "id": 5,
+    "image": "AWS/3-Way-Pandan-light/3way5.jpg",
+    "sale": false,
+    "new": false,
+    "title": "Marled cotton crewneck sweater",
+    "rating": "70",
+    "currency": "$",
+    "oldPrice": "110.78",
+    "price": "1140/3"
+  },
+  {
+    "id": 6,
+    "image": "AWS/3-Way-Pandan-light/3way6.jpg",
+    "sale": false,
+    "new": false,
+    "title": "Slim lightweight denim",
+    "rating": "70",
+    "currency": "$",
+    "oldPrice": "100.99",
+    "price": "1141/3"
+  },
+  {
+    "id": 7,
+    "image": "AWS/3-Way-Pandan-light/3way7.jpg",
+    "sale": false,
+    "new": false,
+    "title": "Fireman's jacket",
+    "rating": "80",
+    "currency": "$",
+    "price": "1142/3"
+  },
+  {
+    "id": 8,
+    "image": "AWS/3-Way-Pandan-light/3way8.jpg",
+    "sale": false,
+    "new": false,
+    "title": "Wrap front sweatshirt",
+    "rating": "20",
+    "currency": "$",
+    "oldPrice": "88.39",
+    "price": "1144/3"
+  },
+  {
+    "id": 9,
+    "image": "AWS/3-Way-Pandan-light/3way9.jpg",
+    "sale": false,
+    "new": true,
+    "title": "Slim brushed twill shirt",
+    "rating": "100",
+    "currency": "$",
+    "price": "G400987/3"
+  },
+  {
+    "id": 10,
+    "image": "AWS/3-Way-Pandan-light/3way10.jpg",
+    "sale": false,
+    "new": true,
+    "title": "Nailhead workshirt",
+    "rating": "90",
+    "currency": "$",
+    "oldPrice": "74.48",
+    "price": "G500521/3"
+  }
+]
